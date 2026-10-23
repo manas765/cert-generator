@@ -1,0 +1,12 @@
+﻿{
+  "templateSizePx": { "width": 2264, "height": 1600 },
+  "font": "Caveat-Regular.ttf",
+  "fontSizePx": 128,
+  "name": { "centerX": 1132, "baselineFromTop": 985, "maxWidth": 1400, "minFontSizePx": 70 },
+  "colour": { "figmaGradient": "linear-gradient(180deg, #FFFFFF 0%, #FF6A00 100%)", "used": "#FFB27A" },
+  "notes": [
+    "Figma shows 64px / 5.12px letter spacing at 1x, so 128px at the 2x export",
+    "pdf-lib cannot draw gradient text, so a solid colour is used",
+    "Letter spacing is not applied, so the name looks slightly tighter than in Figma"
+  ]
+}
